@@ -15,12 +15,12 @@ export default {
         },
         {
           name: 'Manage Information',
-          url: '/elements/',
+          url: '/elements/grid',
         },
         
         {
           name: 'Toggles Activity',
-          url: '/elements/',
+          url: '/elements/buttons',
         },
         
       ],
@@ -29,7 +29,10 @@ export default {
       name: 'progress',
       icon: 'File',
       children: [
-    
+        {
+          name: 'Analytics',
+          url: '/apps/analytics',
+        },
       ],
     },
     
