@@ -15,7 +15,7 @@ export default {
         },
         {
           name: 'Manage Information',
-          url: '/elements/grid',
+          url: '/elements/tables',
         },
         
         {
